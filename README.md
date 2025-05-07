@@ -1,4 +1,4 @@
-# stopwatch
+# StopWatch
 A simple web-based stopwatch built using Flask, HTML, CSS and Javascript. 
 
 Features: 
