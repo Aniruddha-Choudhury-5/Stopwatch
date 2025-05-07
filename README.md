@@ -1,5 +1,5 @@
 # stopwatch
-A simple web-based stopwatch built using Python and Flask.
+A simple web-based stopwatch built using Flask, HTML, CSS and Javascript. 
 
 Features: 
 1) Start, stop, and reset the timer
